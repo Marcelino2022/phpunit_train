@@ -3,8 +3,10 @@
 /.env
 /.env.local
 /composer.lock
+/.phpunit.result.cache 
 /var/
 /cache/
 /logs/
 .DS_Store
 Thumbs.db
+
